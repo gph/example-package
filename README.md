@@ -31,6 +31,11 @@ authors = [
 description = "A small example package"
 readme = "README.md"
 requires-python = ">=3.7"
+# example add dependencies 
+dependencies = [
+    "pandas",
+    "requests"
+]
 ```
 
 ### Install local package
